@@ -12,6 +12,7 @@ import './charts/ChartjsConfig';
 
 // Import pages
 import Dashboard from './pages/Dashboard';
+import Friends from "./pages/Friends";
 
 function App() {
 
@@ -27,9 +28,8 @@ function App() {
   return (
     <>
       <Switch>
-        <Route exact path="/">
-          <Dashboard />
-        </Route>
+        <Route exact path="/" component={Dashboard} />
+        <Route path="/friends" component={Friends} />
       </Switch>
     </>
   );

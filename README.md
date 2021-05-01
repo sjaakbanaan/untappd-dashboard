@@ -1,4 +1,4 @@
-# Free Tailwind dashboard template
+# Untappd Dashboard (based on the free Tailwind dashboard template)
 
 ![Mosaic TailwindCSS template preview](https://user-images.githubusercontent.com/2683512/115404502-ad322d80-a1ed-11eb-91c0-1aa79b0949f0.png)
 
@@ -18,23 +18,23 @@ Looking for more pages and components? Have a look at the **premium version** he
 
 ## Table of contents
 
-* [Usage](#usage)
-  * [Available Scripts](#available-scripts)
-    * [npm start](#npm-start)
-    * [npm test](#npm-test)
-    * [npm run build](#npm-run-build)
-    * [npm run eject](#npm-run-eject)
-  * [Learn More](#learn-more)
-    * [Code Splitting](#code-splitting)
-    * [Analyzing the Bundle Size](#analyzing-the-bundle-size)
-    * [Making a Progressive Web App](#making-a-progressive-web-app)
-    * [Advanced Configuration](#advanced-configuration)
-    * [Deployment](#deployment)
-    * [npm run build fails to minify](#npm-run-build-fails-to-minify)
-* [Credits](#credits)
-* [Terms and License](#terms-and-license)
-* [About Us](#about-us)
-* [Stay in the loop](#stay-in-the-loop)
+- [Usage](#usage)
+  - [Available Scripts](#available-scripts)
+    - [npm start](#npm-start)
+    - [npm test](#npm-test)
+    - [npm run build](#npm-run-build)
+    - [npm run eject](#npm-run-eject)
+  - [Learn More](#learn-more)
+    - [Code Splitting](#code-splitting)
+    - [Analyzing the Bundle Size](#analyzing-the-bundle-size)
+    - [Making a Progressive Web App](#making-a-progressive-web-app)
+    - [Advanced Configuration](#advanced-configuration)
+    - [Deployment](#deployment)
+    - [npm run build fails to minify](#npm-run-build-fails-to-minify)
+- [Credits](#credits)
+- [Terms and License](#terms-and-license)
+- [About Us](#about-us)
+- [Stay in the loop](#stay-in-the-loop)
 
 ## Usage
 
@@ -45,6 +45,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 #### `npm install`
+
 To install the dependencies package.
 
 #### `npm start`
